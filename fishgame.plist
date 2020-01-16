@@ -11,7 +11,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>http://192.168.1.159:8080/fishgame-mobile.ipa</string>
+<string>https://jinchan.oss-cn-hangzhou.aliyuncs.com/IOS/jinchan_ios.ipa</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -19,7 +19,7 @@
 <key>needs-shine</key>
 <true/>
 <key>url</key>
-<string>http://192.168.1.159:8080/icon.png</string>
+<string>https://jinchan.oss-cn-hangzhou.aliyuncs.com/IOS/icon.png</string>
 </dict>
 </array>
 <key>metadata</key>
