@@ -19,7 +19,7 @@
 <key>needs-shine</key>
 <true/>
 <key>url</key>
-<string>https://enterprise.cloudpay.com.cn/app/packages/iphone-2x.png</string>
+<string>http://192.168.1.159:8080/icon.png</string>
 </dict>
 </array>
 <key>metadata</key>
@@ -31,7 +31,7 @@
 <key>kind</key>
 <string>software</string>
 <key>title</key>
-<string>测试包</string>
+<string>捕鱼:金蟾去哪了</string>
 </dict>
 </dict>
 </array>
